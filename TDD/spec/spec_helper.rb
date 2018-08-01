@@ -1,0 +1,3 @@
+--require rspec
+--format documentation
+--color
